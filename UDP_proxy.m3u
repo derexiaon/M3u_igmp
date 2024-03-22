@@ -79,7 +79,7 @@ http://192.168.1.1:4022/udp/239.10.1.54:5000
 http://192.168.1.1:4022/udp/239.10.1.55:5000
 #EXTINF:-1 group-title="ТВ",TiJi
 http://192.168.1.1:4022/udp/239.10.1.56:5000
-#EXTINF:-1 group-title="ТВ",Gulli
+#EXTINF:-1 group-title="ТВ",Gulli Girl
 http://192.168.1.1:4022/udp/239.10.1.57:5000
 #EXTINF:-1 group-title="ТВ",Большая Азия
 http://192.168.1.1:4022/udp/239.10.1.58:5000
