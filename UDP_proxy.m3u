@@ -93,7 +93,7 @@ http://192.168.1.1:4022/udp/239.10.1.61:5000
 http://192.168.1.1:4022/udp/239.10.1.62:5000
 #EXTINF:-1 group-title="ТВ",viju TV1000 action
 http://192.168.1.1:4022/udp/239.10.1.63:5000
-#EXTINF:-1 group-title="ТВ",BRIDGE TV Classic
+#EXTINF:-1 group-title="ТВ",Bridge TV Classic
 http://192.168.1.1:4022/udp/239.10.1.64:5000
 #EXTINF:-1 group-title="ТВ",viju TV1000 русское
 http://192.168.1.1:4022/udp/239.10.1.65:5000
