@@ -495,11 +495,11 @@ http://192.168.1.1:4022/udp/239.10.2.57:5000
 http://192.168.1.1:4022/udp/239.10.2.58:5000
 #EXTINF:-1 group-title="ТВ",Дом кино
 http://192.168.1.1:4022/udp/239.10.2.59:5000
-#EXTINF:-1 group-title="ТВ",ZDOROVOE TV
+#EXTINF:-1 group-title="ТВ",Здоровое ТВ
 http://192.168.1.1:4022/udp/239.10.2.65:5000
-#EXTINF:-1 group-title="ТВ",RETRO
+#EXTINF:-1 group-title="ТВ",Ретро ТВ
 http://192.168.1.1:4022/udp/239.10.2.66:5000
-#EXTINF:-1 group-title="ТВ",USADBA
+#EXTINF:-1 group-title="ТВ",Усадьба ТВ
 http://192.168.1.1:4022/udp/239.10.2.67:5000
 #EXTINF:-1 group-title="ТВ",Фокус ТВ инфо HD
 http://192.168.1.1:4022/udp/239.10.2.68:5000
