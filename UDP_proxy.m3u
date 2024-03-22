@@ -115,9 +115,9 @@ http://192.168.1.1:4022/udp/239.10.1.72:5000
 http://192.168.1.1:4022/udp/239.10.1.73:5000
 #EXTINF:-1 group-title="ТВ",PSYCHOLOGY
 http://192.168.1.1:4022/udp/239.10.1.75:5000
-#EXTINF:-1 group-title="ТВ",DOMASHNIE SHIVOTNY
+#EXTINF:-1 group-title="ТВ",Домашние Животные
 http://192.168.1.1:4022/udp/239.10.1.76:5000
-#EXTINF:-1 group-title="ТВ",OHOTA I RYBALKA
+#EXTINF:-1 group-title="ТВ",Охота и Рыбалка
 http://192.168.1.1:4022/udp/239.10.1.77:5000
 #EXTINF:-1 group-title="ТВ",Star Cinema
 http://192.168.1.1:4022/udp/239.10.1.78:5000
