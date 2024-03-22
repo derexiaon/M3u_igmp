@@ -1,790 +1,1037 @@
-﻿#EXTM3U
-#EXTINF:-1,Business FM
+#EXTM3U
+#EXTINF:-1 group-title="Радио",Business FM
 http://192.168.1.1:4022/udp/239.10.1.1:5000
-#EXTINF:-1,Конный мир
+#EXTINF:-1 group-title="ТВ",Конный мир
 http://192.168.1.1:4022/udp/239.10.1.5:5000
-#EXTINF:-1,Erox
-http://192.168.1.1:4022/udp/239.10.1.7:5000
-#EXTINF:-1,НИК
+#EXTINF:-1 group-title="ТВ",НИК
 http://192.168.1.1:4022/udp/239.10.1.8:5000
-#EXTINF:-1,DRIVE
+#EXTINF:-1 group-title="ТВ",DRIVE
 http://192.168.1.1:4022/udp/239.10.1.9:5000
-#EXTINF:-1,Загородная жизнь
+#EXTINF:-1 group-title="ТВ",Загородная жизнь
 http://192.168.1.1:4022/udp/239.10.1.10:5000
-#EXTINF:-1,Amedia 2
-http://192.168.1.1:4022/udp/239.10.1.12:5000
-#EXTINF:-1,Матч Арена
+#EXTINF:-1 group-title="ТВ",Матч Арена
 http://192.168.1.1:4022/udp/239.10.1.11:5000
-#EXTINF:-1,Terra
-http://192.168.1.1:4022/udp/239.10.1.15:5000
-#EXTINF:-1,Матч Игра
+#EXTINF:-1 group-title="ТВ",Amedia 2
+http://192.168.1.1:4022/udp/239.10.1.12:5000
+#EXTINF:-1 group-title="ТВ",Матч Игра
 http://192.168.1.1:4022/udp/239.10.1.14:5000
-#EXTINF:-1,Русское радио
+#EXTINF:-1 group-title="ТВ",Terra
+http://192.168.1.1:4022/udp/239.10.1.15:5000
+#EXTINF:-1 group-title="Радио",Русское радио
 http://192.168.1.1:4022/udp/239.10.1.16:5000
-#EXTINF:-1,ТНТ4
+#EXTINF:-1 group-title="ТВ",ТНТ4
 http://192.168.1.1:4022/udp/239.10.1.17:5000
-#EXTINF:-1,Bolt
+#EXTINF:-1 group-title="ТВ",Bolt
 http://192.168.1.1:4022/udp/239.10.1.18:5000
-#EXTINF:-1,Ваш Успех
+#EXTINF:-1 group-title="ТВ",Ваш Успех
 http://192.168.1.1:4022/udp/239.10.1.19:5000
-#EXTINF:-1,Мужской
-http://192.168.1.1:4022/udp/239.10.1.21:5000
-#EXTINF:-1 group-title="Камеры", HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.20:5000
-#EXTINF:-1,Т24
+#EXTINF:-1 group-title="ТВ",Мужской
+http://192.168.1.1:4022/udp/239.10.1.21:5000
+#EXTINF:-1 group-title="ТВ",Т24
 http://192.168.1.1:4022/udp/239.10.1.23:5000
-#EXTINF:-1,VOPROSY OTVETY
+#EXTINF:-1 group-title="ТВ",VOPROSY OTVETY
 http://192.168.1.1:4022/udp/239.10.1.24:5000
-#EXTINF:-1,DocuBox
+#EXTINF:-1 group-title="ТВ",DocuBox
 http://192.168.1.1:4022/udp/239.10.1.25:5000
-#EXTINF:-1,Extreme Sports
+#EXTINF:-1 group-title="ТВ",Extreme Sports
 http://192.168.1.1:4022/udp/239.10.1.26:5000
-#EXTINF:-1,БСТ
+#EXTINF:-1 group-title="ТВ",БСТ
 http://192.168.1.1:4022/udp/239.10.1.27:5000
-#EXTINF:-1,Радио МИР
+#EXTINF:-1 group-title="Радио",Радио МИР
 http://192.168.1.1:4022/udp/239.10.1.28:5000
-#EXTINF:-1 group-title="Камеры", HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.29:5000
-#EXTINF:-1,Ru TV
+#EXTINF:-1 group-title="ТВ",Ru TV
 http://192.168.1.1:4022/udp/239.10.1.33:5000
-#EXTINF:-1,Россия 1
+#EXTINF:-1 group-title="ТВ",Россия 1
 http://192.168.1.1:4022/udp/239.10.1.35:5000
-#EXTINF:-1 group-title="Камеры", HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.34:5000
-#EXTINF:-1,Gagsnetwork
-http://192.168.1.1:4022/udp/239.10.1.36:5000
-#EXTINF:-1 group-title="Камеры", HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.38:5000
-#EXTINF:-1 group-title="Камеры", HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.37:5000
-#EXTINF:-1,Известия
+#EXTINF:-1 group-title="ТВ",Известия
 http://192.168.1.1:4022/udp/239.10.1.40:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.41:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.42:5000
-#EXTINF:-1,Cartoon Classic
+#EXTINF:-1 group-title="ТВ",Cartoon Classic
 http://192.168.1.1:4022/udp/239.10.1.43:5000
-#EXTINF:-1,Nasha Tema
+#EXTINF:-1 group-title="ТВ",Nasha Tema
 http://192.168.1.1:4022/udp/239.10.1.44:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.46:5000
-#EXTINF:-1,Ностальгия
+#EXTINF:-1 group-title="ТВ",Ностальгия
 http://192.168.1.1:4022/udp/239.10.1.47:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.48:5000
-#EXTINF:-1,HIT FM
+#EXTINF:-1 group-title="Радио",HIT FM
 http://192.168.1.1:4022/udp/239.10.1.49:5000
-#EXTINF:-1,РБК
+#EXTINF:-1 group-title="ТВ",РБК
 http://192.168.1.1:4022/udp/239.10.1.51:5000
-#EXTINF:-1,N/A HD
+#EXTINF:-1 group-title="ТВ",ЛайфТВ HD
 http://192.168.1.1:4022/udp/239.10.1.54:5000
-#EXTINF:-1,.Sci-Fi
+#EXTINF:-1 group-title="ТВ",.Sci-Fi
 http://192.168.1.1:4022/udp/239.10.1.55:5000
-#EXTINF:-1,TiJi
+#EXTINF:-1 group-title="ТВ",TiJi
 http://192.168.1.1:4022/udp/239.10.1.56:5000
-#EXTINF:-1,Gulli Girl
+#EXTINF:-1 group-title="ТВ",Gulli Girl
 http://192.168.1.1:4022/udp/239.10.1.57:5000
-#EXTINF:-1,Maximum
-http://192.168.1.1:4022/udp/239.10.1.59:5000
-#EXTINF:-1,Большая Азия
+#EXTINF:-1 group-title="ТВ",Большая Азия
 http://192.168.1.1:4022/udp/239.10.1.58:5000
-#EXTINF:-1,viju Explore
+#EXTINF:-1 group-title="Радио",Maximum
+http://192.168.1.1:4022/udp/239.10.1.59:5000
+#EXTINF:-1 group-title="ТВ",viju Explore
 http://192.168.1.1:4022/udp/239.10.1.60:5000
-#EXTINF:-1,viju History
+#EXTINF:-1 group-title="ТВ",viju History
 http://192.168.1.1:4022/udp/239.10.1.61:5000
-#EXTINF:-1,viju+ Sport
+#EXTINF:-1 group-title="ТВ",viju+ Sport
 http://192.168.1.1:4022/udp/239.10.1.62:5000
-#EXTINF:-1,viju TV1000 action
+#EXTINF:-1 group-title="ТВ",viju TV1000 action
 http://192.168.1.1:4022/udp/239.10.1.63:5000
-#EXTINF:-1,BRIDGE TV Classic
+#EXTINF:-1 group-title="ТВ",BRIDGE TV Classic
 http://192.168.1.1:4022/udp/239.10.1.64:5000
-#EXTINF:-1,viju TV1000 русское
+#EXTINF:-1 group-title="ТВ",viju TV1000 русское
 http://192.168.1.1:4022/udp/239.10.1.65:5000
-#EXTINF:-1,viju Nature
+#EXTINF:-1 group-title="ТВ",viju Nature
 http://192.168.1.1:4022/udp/239.10.1.66:5000
-#EXTINF:-1,viju TV1000
+#EXTINF:-1 group-title="ТВ",viju TV1000
 http://192.168.1.1:4022/udp/239.10.1.67:5000
-#EXTINF:-1,START World
+#EXTINF:-1 group-title="ТВ",START World
 http://192.168.1.1:4022/udp/239.10.1.68:5000
-#EXTINF:-1,Evrokino
+#EXTINF:-1 group-title="ТВ",Evrokino
 http://192.168.1.1:4022/udp/239.10.1.69:5000
-#EXTINF:-1,Da Vinci
+#EXTINF:-1 group-title="ТВ",Da Vinci
 http://192.168.1.1:4022/udp/239.10.1.70:5000
-#EXTINF:-1,Russkij illuzion
-http://192.168.1.1:4022/udp/239.10.1.72:5000
-#EXTINF:-1,RT Region SD
+#EXTINF:-1 group-title="ТВ",RT Region SD
 http://192.168.1.1:4022/udp/239.10.1.71:5000
-#EXTINF:-1,Illuzion +
+#EXTINF:-1 group-title="ТВ",Russkij illuzion
+http://192.168.1.1:4022/udp/239.10.1.72:5000
+#EXTINF:-1 group-title="ТВ",Illuzion +
 http://192.168.1.1:4022/udp/239.10.1.73:5000
-#EXTINF:-1,PSYCHOLOGY
+#EXTINF:-1 group-title="ТВ",PSYCHOLOGY
 http://192.168.1.1:4022/udp/239.10.1.75:5000
-#EXTINF:-1,DOMASHNIE SHIVOTNY
+#EXTINF:-1 group-title="ТВ",DOMASHNIE SHIVOTNY
 http://192.168.1.1:4022/udp/239.10.1.76:5000
-#EXTINF:-1,OHOTA I RYBALKA
+#EXTINF:-1 group-title="ТВ",OHOTA I RYBALKA
 http://192.168.1.1:4022/udp/239.10.1.77:5000
-#EXTINF:-1,Star Cinema
+#EXTINF:-1 group-title="ТВ",Star Cinema
 http://192.168.1.1:4022/udp/239.10.1.78:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.79:5000
-#EXTINF:-1,Кухня
+#EXTINF:-1 group-title="ТВ",Кухня
 http://192.168.1.1:4022/udp/239.10.1.80:5000
-#EXTINF:-1,Авто Плюс
+#EXTINF:-1 group-title="ТВ",Авто Плюс
 http://192.168.1.1:4022/udp/239.10.1.81:5000
-#EXTINF:-1,Европа Плюс
+#EXTINF:-1 group-title="ТВ",Европа Плюс
 http://192.168.1.1:4022/udp/239.10.1.82:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.1.84:5000
-#EXTINF:-1,МУЖСКОЕ КИНО HD
+#EXTINF:-1 group-title="ТВ",МУЖСКОЕ КИНО HD
 http://192.168.1.1:4022/udp/239.10.1.83:5000
-#EXTINF:-1,Epic
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.1.84:5000
+#EXTINF:-1 group-title="ТВ",Epic
 http://192.168.1.1:4022/udp/239.10.1.85:5000
-#EXTINF:-1,ЗВЕЗДА ПЛЮС
+#EXTINF:-1 group-title="ТВ",ЗВЕЗДА ПЛЮС
 http://192.168.1.1:4022/udp/239.10.1.86:5000
-#EXTINF:-1,СТС HD
+#EXTINF:-1 group-title="ТВ",СТС HD
 http://192.168.1.1:4022/udp/239.10.1.87:5000
-#EXTINF:-1,МАТЧ! ИГРА HD
-http://192.168.1.1:4022/udp/239.10.1.90:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.89:5000
-#EXTINF:-1,DFM
+#EXTINF:-1 group-title="ТВ",МАТЧ! ИГРА HD
+http://192.168.1.1:4022/udp/239.10.1.90:5000
+#EXTINF:-1 group-title="Радио",DFM
 http://192.168.1.1:4022/udp/239.10.1.92:5000
-#EXTINF:-1,КИНОМИКС HD
+#EXTINF:-1 group-title="ТВ",КИНОМИКС HD
 http://192.168.1.1:4022/udp/239.10.1.93:5000
-#EXTINF:-1,КИНОСВИДАНИЕ
+#EXTINF:-1 group-title="ТВ",КИНОСВИДАНИЕ
 http://192.168.1.1:4022/udp/239.10.1.94:5000
-#EXTINF:-1,РОДНОЕ КИНО
+#EXTINF:-1 group-title="ТВ",РОДНОЕ КИНО
 http://192.168.1.1:4022/udp/239.10.1.95:5000
-#EXTINF:-1,Мульт HD
+#EXTINF:-1 group-title="ТВ",Мульт HD
 http://192.168.1.1:4022/udp/239.10.1.96:5000
-#EXTINF:-1,Солнце
-http://192.168.1.1:4022/udp/239.10.1.99:5000
-#EXTINF:-1,Киносемья HD
+#EXTINF:-1 group-title="ТВ",Киносемья HD
 http://192.168.1.1:4022/udp/239.10.1.98:5000
-#EXTINF:-1,Playboy TV
-http://192.168.1.1:4022/udp/239.10.1.101:5000
-#EXTINF:-1,.Red HD
+#EXTINF:-1 group-title="ТВ",Солнце
+http://192.168.1.1:4022/udp/239.10.1.99:5000
+#EXTINF:-1 group-title="ТВ",.Red HD
 http://192.168.1.1:4022/udp/239.10.1.102:5000
-#EXTINF:-1,ЕГЭ
+#EXTINF:-1 group-title="ТВ",ЕГЭ
 http://192.168.1.1:4022/udp/239.10.1.103:5000
-#EXTINF:-1,Telecafe
+#EXTINF:-1 group-title="ТВ",Telecafe
 http://192.168.1.1:4022/udp/239.10.1.104:5000
-#EXTINF:-1,Digital Media
+#EXTINF:-1 group-title="ТВ",Digital Media
 http://192.168.1.1:4022/udp/239.10.1.105:5000
-#EXTINF:-1,КИНОСЕРИЯ
-http://192.168.1.1:4022/udp/239.10.1.108:5000
-#EXTINF:-1,Страна.СуперТВ
+#EXTINF:-1 group-title="ТВ",Страна.СуперТВ
 http://192.168.1.1:4022/udp/239.10.1.107:5000
-#EXTINF:-1,Русская ночь
-http://192.168.1.1:4022/udp/239.10.1.109:5000
-#EXTINF:-1,TV XXI
+#EXTINF:-1 group-title="ТВ",КИНОСЕРИЯ
+http://192.168.1.1:4022/udp/239.10.1.108:5000
+#EXTINF:-1 group-title="ТВ",TV XXI
 http://192.168.1.1:4022/udp/239.10.1.111:5000
-#EXTINF:-1,Terra HD
+#EXTINF:-1 group-title="ТВ",Terra HD
 http://192.168.1.1:4022/udp/239.10.1.112:5000
-#EXTINF:-1,365 дней ТВ
+#EXTINF:-1 group-title="ТВ",365 дней ТВ
 http://192.168.1.1:4022/udp/239.10.1.113:5000
-#EXTINF:-1,МАТЧ! АРЕНА HD
-http://192.168.1.1:4022/udp/239.10.1.115:5000
-#EXTINF:-1,Сапфир HD
+#EXTINF:-1 group-title="ТВ",Сапфир HD
 http://192.168.1.1:4022/udp/239.10.1.114:5000
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
-http://192.168.1.1:4022/udp/239.10.1.118:5000
-#EXTINF:-1,Комсомольская правда
+#EXTINF:-1 group-title="ТВ",МАТЧ! АРЕНА HD
+http://192.168.1.1:4022/udp/239.10.1.115:5000
+#EXTINF:-1 group-title="Радио",Комсомольская правда
 http://192.168.1.1:4022/udp/239.10.1.116:5000
-#EXTINF:-1,Suspense
+#EXTINF:-1 group-title="ТВ",Suspense
 http://192.168.1.1:4022/udp/239.10.1.117:5000
-#EXTINF:-1,KHL
+#EXTINF:-1 group-title="ТВ",МАТЧ! ФУТБОЛ 1 HD
+http://192.168.1.1:4022/udp/239.10.1.118:5000
+#EXTINF:-1 group-title="ТВ",KHL
 http://192.168.1.1:4022/udp/239.10.1.119:5000
-#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
-http://192.168.1.1:4022/udp/239.10.1.121:5000
-#EXTINF:-1,Жара
+#EXTINF:-1 group-title="ТВ",Жара
 http://192.168.1.1:4022/udp/239.10.1.120:5000
-#EXTINF:-1,Тайны Галактики
+#EXTINF:-1 group-title="ТВ",МАТЧ ПРЕМЬЕР HD
+http://192.168.1.1:4022/udp/239.10.1.121:5000
+#EXTINF:-1 group-title="ТВ",Тайны Галактики
 http://192.168.1.1:4022/udp/239.10.1.122:5000
-#EXTINF:-1,Татарстан Новый Век
+#EXTINF:-1 group-title="ТВ",Татарстан Новый Век
 http://192.168.1.1:4022/udp/239.10.1.123:5000
-#EXTINF:-1,Наука HD
+#EXTINF:-1 group-title="ТВ",Наука HD
 http://192.168.1.1:4022/udp/239.10.1.124:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.1.127:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.126:5000
-#EXTINF:-1,Шансон ТВ
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.1.127:5000
+#EXTINF:-1 group-title="ТВ",Шансон ТВ
 http://192.168.1.1:4022/udp/239.10.1.129:5000
-#EXTINF:-1,BridgeTvDance
+#EXTINF:-1 group-title="ТВ",BridgeTvDance
 http://192.168.1.1:4022/udp/239.10.1.130:5000
-#EXTINF:-1,15 ТВ3
+#EXTINF:-1 group-title="ТВ",15 ТВ3
 http://192.168.1.1:4022/udp/239.10.1.132:5000
-#EXTINF:-1,Дикий
+#EXTINF:-1 group-title="ТВ",Дикий
 http://192.168.1.1:4022/udp/239.10.1.134:5000
-#EXTINF:-1,ИНДИЙСКОЕ КИНО
+#EXTINF:-1 group-title="ТВ",ИНДИЙСКОЕ КИНО
 http://192.168.1.1:4022/udp/239.10.1.135:5000
-#EXTINF:-1,Ля-минор ТВ
+#EXTINF:-1 group-title="ТВ",Ля-минор ТВ
 http://192.168.1.1:4022/udp/239.10.1.136:5000
-#EXTINF:-1,Кинеко
+#EXTINF:-1 group-title="ТВ",Кинеко
 http://192.168.1.1:4022/udp/239.10.1.138:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="ТВ",Дума ТВ
 http://192.168.1.1:4022/udp/239.10.1.139:5000
-#EXTINF:-1,Classic Music
+#EXTINF:-1 group-title="ТВ",Classic Music
 http://192.168.1.1:4022/udp/239.10.1.141:5000
-#EXTINF:-1,FashionBox
+#EXTINF:-1 group-title="ТВ",FashionBox
 http://192.168.1.1:4022/udp/239.10.1.143:5000
-#EXTINF:-1,Unikum
+#EXTINF:-1 group-title="ТВ",Unikum
 http://192.168.1.1:4022/udp/239.10.1.144:5000
-#EXTINF:-1,Матч Боец
+#EXTINF:-1 group-title="ТВ",Матч Боец
 http://192.168.1.1:4022/udp/239.10.1.145:5000
-#EXTINF:-1,КИНОКОМЕДИЯ
+#EXTINF:-1 group-title="ТВ",КИНОКОМЕДИЯ
 http://192.168.1.1:4022/udp/239.10.1.146:5000
-#EXTINF:-1,Авто 24
+#EXTINF:-1 group-title="ТВ",Авто 24
 http://192.168.1.1:4022/udp/239.10.1.148:5000
-#EXTINF:-1,ТНВ Планета
+#EXTINF:-1 group-title="ТВ",ТНВ Планета
 http://192.168.1.1:4022/udp/239.10.1.149:5000
-#EXTINF:-1,БелРос
+#EXTINF:-1 group-title="ТВ",БелРос
 http://192.168.1.1:4022/udp/239.10.1.150:5000
-#EXTINF:-1,FightBox
+#EXTINF:-1 group-title="ТВ",FightBox
 http://192.168.1.1:4022/udp/239.10.1.151:5000
-#EXTINF:-1,Мульт
+#EXTINF:-1 group-title="ТВ",Мульт
 http://192.168.1.1:4022/udp/239.10.1.152:5000
-#EXTINF:-1,Милицейская волна
+#EXTINF:-1 group-title="Радио",Милицейская волна
 http://192.168.1.1:4022/udp/239.10.1.153:5000
-#EXTINF:-1,Kazakh
+#EXTINF:-1 group-title="ТВ",Kazakh
 http://192.168.1.1:4022/udp/239.10.1.154:5000
-#EXTINF:-1,Comedy Radio
+#EXTINF:-1 group-title="Радио",Comedy Radio
 http://192.168.1.1:4022/udp/239.10.1.155:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.156:5000
-#EXTINF:-1,FilmBox
+#EXTINF:-1 group-title="ТВ",FilmBox
 http://192.168.1.1:4022/udp/239.10.1.157:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.158:5000
-#EXTINF:-1,Радио Ваня
+#EXTINF:-1 group-title="Радио",Радио Ваня
 http://192.168.1.1:4022/udp/239.10.1.159:5000
-#EXTINF:-1,Star Family
+#EXTINF:-1 group-title="ТВ",Star Family
 http://192.168.1.1:4022/udp/239.10.1.160:5000
-#EXTINF:-1,AzTV HD
+#EXTINF:-1 group-title="ТВ",AzTV HD
 http://192.168.1.1:4022/udp/239.10.1.161:5000
-#EXTINF:-1,Романтика
+#EXTINF:-1 group-title="Радио",Романтика
 http://192.168.1.1:4022/udp/239.10.1.164:5000
-#EXTINF:-1,СТС Love
-http://192.168.1.1:4022/udp/239.10.1.166:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.165:5000
-#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+#EXTINF:-1 group-title="ТВ",СТС Love
+http://192.168.1.1:4022/udp/239.10.1.166:5000
+#EXTINF:-1 group-title="ТВ",05 ПЯТЫЙ КАНАЛ
 http://192.168.1.1:4022/udp/239.10.1.167:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.168:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.169:5000
-#EXTINF:-1,Авторадио
+#EXTINF:-1 group-title="Радио",Авторадио
 http://192.168.1.1:4022/udp/239.10.1.170:5000
-#EXTINF:-1,Юмор FM
+#EXTINF:-1 group-title="Радио",Юмор FM
 http://192.168.1.1:4022/udp/239.10.1.171:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.172:5000
-#EXTINF:-1,14 Домашний
+#EXTINF:-1 group-title="ТВ",14 Домашний
 http://192.168.1.1:4022/udp/239.10.1.173:5000
-#EXTINF:-1,START Air
+#EXTINF:-1 group-title="ТВ",START Air
 http://192.168.1.1:4022/udp/239.10.1.175:5000
-#EXTINF:-1,BRIDGE TV
+#EXTINF:-1 group-title="ТВ",BRIDGE TV
 http://192.168.1.1:4022/udp/239.10.1.176:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.178:5000
-#EXTINF:-1,RTG TV
+#EXTINF:-1 group-title="ТВ",RTG TV
 http://192.168.1.1:4022/udp/239.10.1.179:5000
-#EXTINF:-1,MY PLANET
+#EXTINF:-1 group-title="ТВ",MY PLANET
 http://192.168.1.1:4022/udp/239.10.1.181:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.1.183:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.182:5000
-#EXTINF:-1,Матч Страна
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.1.183:5000
+#EXTINF:-1 group-title="ТВ",Матч Страна
 http://192.168.1.1:4022/udp/239.10.1.184:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.185:5000
-#EXTINF:-1,Театр
+#EXTINF:-1 group-title="ТВ",Театр
 http://192.168.1.1:4022/udp/239.10.1.186:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.187:5000
-#EXTINF:-1,03 МАТЧ!
+#EXTINF:-1 group-title="ТВ",03 МАТЧ!
 http://192.168.1.1:4022/udp/239.10.1.190:5000
-#EXTINF:-1,10 ТВ Центр
+#EXTINF:-1 group-title="ТВ",10 ТВ Центр
 http://192.168.1.1:4022/udp/239.10.1.191:5000
-#EXTINF:-1,НТВ Сериал
+#EXTINF:-1 group-title="ТВ",НТВ Сериал
 http://192.168.1.1:4022/udp/239.10.1.192:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.193:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.1.198:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.1.200:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.1.199:5000
-#EXTINF:-1,Red Lips
-http://192.168.1.1:4022/udp/239.10.1.201:5000
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.1.200:5000
+#EXTINF:-1 group-title="ТВ",МАТЧ! ФУТБОЛ 2 HD
 http://192.168.1.1:4022/udp/239.10.1.202:5000
-#EXTINF:-1,Зал суда
+#EXTINF:-1 group-title="ТВ",Зал суда
 http://192.168.1.1:4022/udp/239.10.1.203:5000
-#EXTINF:-1,Русский Детектив
+#EXTINF:-1 group-title="ТВ",Русский Детектив
 http://192.168.1.1:4022/udp/239.10.1.204:5000
-#EXTINF:-1,Русский Бестселлер
+#EXTINF:-1 group-title="ТВ",Русский Бестселлер
 http://192.168.1.1:4022/udp/239.10.1.205:5000
-#EXTINF:-1,O-la-la
-http://192.168.1.1:4022/udp/239.10.1.206:5000
-#EXTINF:-1,Кинеко HD
+#EXTINF:-1 group-title="ТВ",Кинеко HD
 http://192.168.1.1:4022/udp/239.10.1.207:5000
-#EXTINF:-1,RT DOC HD
+#EXTINF:-1 group-title="ТВ",RT DOC HD
 http://192.168.1.1:4022/udp/239.10.1.209:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.208:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.210:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.211:5000
-#EXTINF:-1,Belarus 24
-http://192.168.1.1:4022/udp/239.10.1.213:5000
-#EXTINF:-1,Сарафан
+#EXTINF:-1 group-title="ТВ",Сарафан
 http://192.168.1.1:4022/udp/239.10.1.212:5000
-#EXTINF:-1,Матч ТВ HD
+#EXTINF:-1 group-title="ТВ",Belarus 24
+http://192.168.1.1:4022/udp/239.10.1.213:5000
+#EXTINF:-1 group-title="ТВ",Матч ТВ HD
 http://192.168.1.1:4022/udp/239.10.1.214:5000
-#EXTINF:-1,Romance Channel
+#EXTINF:-1 group-title="ТВ",Romance Channel
 http://192.168.1.1:4022/udp/239.10.1.216:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.217:5000
-#EXTINF:-1,08 КАРУСЕЛЬ
+#EXTINF:-1 group-title="ТВ",08 КАРУСЕЛЬ
 http://192.168.1.1:4022/udp/239.10.1.218:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.219:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.220:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.221:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.222:5000
-#EXTINF:-1,12 Спас
+#EXTINF:-1 group-title="ТВ",12 Спас
 http://192.168.1.1:4022/udp/239.10.1.224:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.1.223:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.225:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.226:5000
-#EXTINF:-1,16 Пятница
-http://192.168.1.1:4022/udp/239.10.1.228:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.227:5000
-#EXTINF:-1,КИНОПРЕМЬЕРА HD
-http://192.168.1.1:4022/udp/239.10.1.231:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="ТВ",16 Пятница
+http://192.168.1.1:4022/udp/239.10.1.228:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.1.230:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="ТВ",КИНОПРЕМЬЕРА HD
+http://192.168.1.1:4022/udp/239.10.1.231:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.232:5000
-#EXTINF:-1,18 МИР
+#EXTINF:-1 group-title="ТВ",18 МИР
 http://192.168.1.1:4022/udp/239.10.1.233:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.234:5000
-#EXTINF:-1,20 МУЗ ТВ
+#EXTINF:-1 group-title="ТВ",20 МУЗ ТВ
 http://192.168.1.1:4022/udp/239.10.1.235:5000
-#EXTINF:-1,04 НТВ
+#EXTINF:-1 group-title="ТВ",04 НТВ
 http://192.168.1.1:4022/udp/239.10.1.236:5000
-#EXTINF:-1,13 СТС
+#EXTINF:-1 group-title="ТВ",13 СТС
 http://192.168.1.1:4022/udp/239.10.1.237:5000
-#EXTINF:-1,НТВ Право
+#EXTINF:-1 group-title="ТВ",НТВ Право
 http://192.168.1.1:4022/udp/239.10.1.238:5000
-#EXTINF:-1,KHL Prime HD
+#EXTINF:-1 group-title="ТВ",KHL Prime HD
 http://192.168.1.1:4022/udp/239.10.1.239:5000
-#EXTINF:-1,Че ТВ
+#EXTINF:-1 group-title="ТВ",Че ТВ
 http://192.168.1.1:4022/udp/239.10.1.240:5000
-#EXTINF:-1,17 Звезда
+#EXTINF:-1 group-title="ТВ",17 Звезда
 http://192.168.1.1:4022/udp/239.10.1.241:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.242:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.243:5000
-#EXTINF:-1,11 РЕН ТВ
+#EXTINF:-1 group-title="ТВ",11 РЕН ТВ
 http://192.168.1.1:4022/udp/239.10.1.244:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.1.245:5000
-#EXTINF:-1,Комедия
+#EXTINF:-1 group-title="ТВ",Комедия
 http://192.168.1.1:4022/udp/239.10.1.246:5000
-#EXTINF:-1,Живая Природа HD
+#EXTINF:-1 group-title="ТВ",Живая Природа HD
 http://192.168.1.1:4022/udp/239.10.1.247:5000
-#EXTINF:-1,N/A
+#EXTINF:-1 group-title="ТВ",ОРТ
 http://192.168.1.1:4022/udp/239.10.1.248:5000
-#EXTINF:-1,19 ТНТ
+#EXTINF:-1 group-title="ТВ",19 ТНТ
 http://192.168.1.1:4022/udp/239.10.1.249:5000
-#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 group-title="ТВ",01 ПЕРВЫЙ КАНАЛ
 http://192.168.1.1:4022/udp/239.10.1.250:5000
-#EXTINF:-1,02 РОССИЯ-1
+#EXTINF:-1 group-title="ТВ",02 РОССИЯ-1
 http://192.168.1.1:4022/udp/239.10.1.251:5000
-#EXTINF:-1,SHOT TV
+#EXTINF:-1 group-title="ТВ",SHOT TV
 http://192.168.1.1:4022/udp/239.10.1.252:5000
-#EXTINF:-1,07 РОССИЯ-24
+#EXTINF:-1 group-title="ТВ",07 РОССИЯ-24
 http://192.168.1.1:4022/udp/239.10.1.253:5000
-#EXTINF:-1,06 РОССИЯ-К
+#EXTINF:-1 group-title="ТВ",06 РОССИЯ-К
 http://192.168.1.1:4022/udp/239.10.1.254:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.2.3:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.2:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.2.3:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.5:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.6:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.7:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.8:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.9:5000
-#EXTINF:-1,O2TV
+#EXTINF:-1 group-title="ТВ",O2TV
 http://192.168.1.1:4022/udp/239.10.2.10:5000
-#EXTINF:-1,Точка отрыва
+#EXTINF:-1 group-title="ТВ",Точка отрыва
 http://192.168.1.1:4022/udp/239.10.2.13:5000
-#EXTINF:-1,.Black
-http://192.168.1.1:4022/udp/239.10.2.15:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.14:5000
-#EXTINF:-1,Khabar 24
-http://192.168.1.1:4022/udp/239.10.2.17:5000
-#EXTINF:-1,Мир Увлечений
-http://192.168.1.1:4022/udp/239.10.2.18:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="ТВ",.Black
+http://192.168.1.1:4022/udp/239.10.2.15:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.16:5000
-#EXTINF:-1,360' Подмосковье
+#EXTINF:-1 group-title="ТВ",Khabar 24
+http://192.168.1.1:4022/udp/239.10.2.17:5000
+#EXTINF:-1 group-title="ТВ",Мир Увлечений
+http://192.168.1.1:4022/udp/239.10.2.18:5000
+#EXTINF:-1 group-title="ТВ",360' Подмосковье
 http://192.168.1.1:4022/udp/239.10.2.21:5000
-#EXTINF:-1,Amedia 1
+#EXTINF:-1 group-title="ТВ",Amedia 1
 http://192.168.1.1:4022/udp/239.10.2.23:5000
-#EXTINF:-1,Моя планета HD
+#EXTINF:-1 group-title="ТВ",Моя планета HD
 http://192.168.1.1:4022/udp/239.10.2.25:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.26:5000
-#EXTINF:-1,Продвижение (Москва)
+#EXTINF:-1 group-title="ТВ",Продвижение (Москва)
 http://192.168.1.1:4022/udp/239.10.2.27:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.28:5000
-#EXTINF:-1,Дикая охота HD
+#EXTINF:-1 group-title="ТВ",Дикая охота HD
 http://192.168.1.1:4022/udp/239.10.2.29:5000
-#EXTINF:-1,Hollywood
+#EXTINF:-1 group-title="ТВ",Hollywood
 http://192.168.1.1:4022/udp/239.10.2.30:5000
-#EXTINF:-1,BRIDGE TV Русский Хит
+#EXTINF:-1 group-title="ТВ",BRIDGE TV Русский Хит
 http://192.168.1.1:4022/udp/239.10.2.31:5000
-#EXTINF:-1,RTG HD
-http://192.168.1.1:4022/udp/239.10.2.34:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.33:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="ТВ",RTG HD
+http://192.168.1.1:4022/udp/239.10.2.34:5000
+#EXTINF:-1 group-title="ТВ",9 Волна
 http://192.168.1.1:4022/udp/239.10.2.35:5000
-#EXTINF:-1,Кино 24
+#EXTINF:-1 group-title="ТВ",Кино 24
 http://192.168.1.1:4022/udp/239.10.2.36:5000
-#EXTINF:-1,Любимое кино
+#EXTINF:-1 group-title="ТВ",Любимое кино
 http://192.168.1.1:4022/udp/239.10.2.38:5000
-#EXTINF:-1,9 Волна
+#EXTINF:-1 group-title="ТВ",9 Волна
 http://192.168.1.1:4022/udp/239.10.2.40:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="ТВ",Оружие
 http://192.168.1.1:4022/udp/239.10.2.41:5000
-#EXTINF:-1,Дикая рыбалка HD
+#EXTINF:-1 group-title="ТВ",Дикая рыбалка HD
 http://192.168.1.1:4022/udp/239.10.2.42:5000
-#EXTINF:-1,9 Волна
+#EXTINF:-1 group-title="ТВ",9 Волна
 http://192.168.1.1:4022/udp/239.10.2.46:5000
-#EXTINF:-1,В гостях у сказки
+#EXTINF:-1 group-title="ТВ",В гостях у сказки
 http://192.168.1.1:4022/udp/239.10.2.47:5000
-#EXTINF:-1,Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="ТВ",Мосфильм. Золотая коллекция
 http://192.168.1.1:4022/udp/239.10.2.51:5000
-#EXTINF:-1,Детский Мир
+#EXTINF:-1 group-title="ТВ",Детский Мир
 http://192.168.1.1:4022/udp/239.10.2.52:5000
-#EXTINF:-1,N/A
+#EXTINF:-1 group-title="ТВ",Известия
 http://192.168.1.1:4022/udp/239.10.2.53:5000
-#EXTINF:-1,Кинохит HD
+#EXTINF:-1 group-title="ТВ",Кинохит HD
 http://192.168.1.1:4022/udp/239.10.2.54:5000
-#EXTINF:-1,Наше новое кино
+#EXTINF:-1 group-title="ТВ",Наше новое кино
 http://192.168.1.1:4022/udp/239.10.2.55:5000
-#EXTINF:-1,Живи активно HD
+#EXTINF:-1 group-title="ТВ",Живи активно HD
 http://192.168.1.1:4022/udp/239.10.2.56:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.57:5000
-#EXTINF:-1,НТВ Стиль
+#EXTINF:-1 group-title="ТВ",НТВ Стиль
 http://192.168.1.1:4022/udp/239.10.2.58:5000
-#EXTINF:-1,Дом кино
+#EXTINF:-1 group-title="ТВ",Дом кино
 http://192.168.1.1:4022/udp/239.10.2.59:5000
-#EXTINF:-1,ZDOROVOE TV
+#EXTINF:-1 group-title="ТВ",ZDOROVOE TV
 http://192.168.1.1:4022/udp/239.10.2.65:5000
-#EXTINF:-1,RETRO
+#EXTINF:-1 group-title="ТВ",RETRO
 http://192.168.1.1:4022/udp/239.10.2.66:5000
-#EXTINF:-1,
-http://192.168.1.1:4022/udp/239.10.2.68:5000
-#EXTINF:-1,USADBA
+#EXTINF:-1 group-title="ТВ",USADBA
 http://192.168.1.1:4022/udp/239.10.2.67:5000
-#EXTINF:-1,N/A
+#EXTINF:-1 group-title="ТВ",Фокус ТВ инфо HD
+http://192.168.1.1:4022/udp/239.10.2.68:5000
+#EXTINF:-1 group-title="ТВ",Zoo
 http://192.168.1.1:4022/udp/239.10.2.69:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.71:5000
-#EXTINF:-1,Глазами Туриста HD
+#EXTINF:-1 group-title="ТВ",Глазами Туриста HD
 http://192.168.1.1:4022/udp/239.10.2.72:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.73:5000
-#EXTINF:-1,Кино ТВ HD
+#EXTINF:-1 group-title="ТВ",Кино ТВ HD
 http://192.168.1.1:4022/udp/239.10.2.74:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.75:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.77:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.79:5000
-#EXTINF:-1,Ю ТВ
+#EXTINF:-1 group-title="ТВ",Ю ТВ
 http://192.168.1.1:4022/udp/239.10.2.80:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.81:5000
-#EXTINF:-1,Совершенно секретно
+#EXTINF:-1 group-title="ТВ",Совершенно секретно
 http://192.168.1.1:4022/udp/239.10.2.82:5000
-#EXTINF:-1,КВН ТВ
+#EXTINF:-1 group-title="ТВ",КВН ТВ
 http://192.168.1.1:4022/udp/239.10.2.83:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.2.86:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="ТВ",Курай
 http://192.168.1.1:4022/udp/239.10.2.84:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.88:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.2.86:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.90:5000
-#EXTINF:-1,N/A HD
+#EXTINF:-1 group-title="ТВ",Евразия HD
 http://192.168.1.1:4022/udp/239.10.2.91:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.93:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.95:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.97:5000
-#EXTINF:-1,СуперГерои
+#EXTINF:-1 group-title="ТВ",СуперГерои
 http://192.168.1.1:4022/udp/239.10.2.98:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.99:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.101:5000
-#EXTINF:-1,Шаян ТВ
+#EXTINF:-1 group-title="ТВ",Шаян ТВ
 http://192.168.1.1:4022/udp/239.10.2.102:5000
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
-http://192.168.1.1:4022/udp/239.10.2.106:5000
-#EXTINF:-1,09 ОТР
-http://192.168.1.1:4022/udp/239.10.2.105:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.104:5000
-#EXTINF:-1,N/A HD
+#EXTINF:-1 group-title="ТВ",МАТЧ! ФУТБОЛ 3 HD
+http://192.168.1.1:4022/udp/239.10.2.106:5000
+#EXTINF:-1 group-title="ТВ",09 ОТР
+http://192.168.1.1:4022/udp/239.10.2.105:5000
+#EXTINF:-1 group-title="ТВ",ХИТ FM TV HD
 http://192.168.1.1:4022/udp/239.10.2.107:5000
-#EXTINF:-1,Союз
+#EXTINF:-1 group-title="ТВ",Союз
 http://192.168.1.1:4022/udp/239.10.2.108:5000
-#EXTINF:-1,ТНТ Music
-http://192.168.1.1:4022/udp/239.10.2.111:5000
-#EXTINF:-1,Живая Планета
+#EXTINF:-1 group-title="ТВ",Живая Планета
 http://192.168.1.1:4022/udp/239.10.2.110:5000
-#EXTINF:-1,O!
+#EXTINF:-1 group-title="ТВ",ТНТ Music
+http://192.168.1.1:4022/udp/239.10.2.111:5000
+#EXTINF:-1 group-title="ТВ",O!
 http://192.168.1.1:4022/udp/239.10.2.113:5000
-#EXTINF:-1,Amedia Hit HD
+#EXTINF:-1 group-title="ТВ",Amedia Hit HD
 http://192.168.1.1:4022/udp/239.10.2.114:5000
-#EXTINF:-1,Майдан
+#EXTINF:-1 group-title="ТВ",Майдан
 http://192.168.1.1:4022/udp/239.10.2.115:5000
-#EXTINF:-1,Курай
+#EXTINF:-1 group-title="ТВ",Курай
 http://192.168.1.1:4022/udp/239.10.2.116:5000
-#EXTINF:-1,Ocean
+#EXTINF:-1 group-title="ТВ",Ocean
 http://192.168.1.1:4022/udp/239.10.2.117:5000
-#EXTINF:-1,Диалоги о рыбалке
+#EXTINF:-1 group-title="ТВ",Диалоги о рыбалке
 http://192.168.1.1:4022/udp/239.10.2.118:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.119:5000
-#EXTINF:-1,Победа
+#EXTINF:-1 group-title="ТВ",Победа
 http://192.168.1.1:4022/udp/239.10.2.121:5000
-#EXTINF:-1,FastnfunBox
+#EXTINF:-1 group-title="ТВ",FastnfunBox
 http://192.168.1.1:4022/udp/239.10.2.122:5000
-#EXTINF:-1,Мама
+#EXTINF:-1 group-title="ТВ",Мама
 http://192.168.1.1:4022/udp/239.10.2.123:5000
-#EXTINF:-1,Ani
+#EXTINF:-1 group-title="ТВ",Ani
 http://192.168.1.1:4022/udp/239.10.2.127:5000
-#EXTINF:-1,Пингвин
+#EXTINF:-1 group-title="ТВ",Пингвин
 http://192.168.1.1:4022/udp/239.10.2.128:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.129:5000
-#EXTINF:-1,FilmBox Arthouse
+#EXTINF:-1 group-title="ТВ",FilmBox Arthouse
 http://192.168.1.1:4022/udp/239.10.2.132:5000
-#EXTINF:-1,Мир 24
+#EXTINF:-1 group-title="ТВ",Мир 24
 http://192.168.1.1:4022/udp/239.10.2.133:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.134:5000
-#EXTINF:-1,Timeless Dizi Channel
+#EXTINF:-1 group-title="ТВ",Timeless Dizi Channel
 http://192.168.1.1:4022/udp/239.10.2.135:5000
-#EXTINF:-1,Love Radio
+#EXTINF:-1 group-title="Радио",Love Radio
 http://192.168.1.1:4022/udp/239.10.2.136:5000
-#EXTINF:-1,ETV SD
+#EXTINF:-1 group-title="ТВ",ETV SD
 http://192.168.1.1:4022/udp/239.10.2.138:5000
-#EXTINF:-1,НТВ Хит
+#EXTINF:-1 group-title="ТВ",НТВ Хит
 http://192.168.1.1:4022/udp/239.10.2.140:5000
-#EXTINF:-1,Первый Вегетарианский
+#EXTINF:-1 group-title="ТВ",Первый Вегетарианский
 http://192.168.1.1:4022/udp/239.10.2.141:5000
-#EXTINF:-1,Мультиландия
+#EXTINF:-1 group-title="ТВ",Мультиландия
 http://192.168.1.1:4022/udp/239.10.2.144:5000
-#EXTINF:-1,СТС Kids
+#EXTINF:-1 group-title="ТВ",СТС Kids
 http://192.168.1.1:4022/udp/239.10.2.145:5000
-#EXTINF:-1,Plan B HD
-http://192.168.1.1:4022/udp/239.10.2.147:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.146:5000
-#EXTINF:-1,Моя Планета
+#EXTINF:-1 group-title="ТВ",Plan B HD
+http://192.168.1.1:4022/udp/239.10.2.147:5000
+#EXTINF:-1 group-title="ТВ",Моя Планета
 http://192.168.1.1:4022/udp/239.10.2.148:5000
-#EXTINF:-1,MMA-TV.com
+#EXTINF:-1 group-title="ТВ",MMA-TV.com
 http://192.168.1.1:4022/udp/239.10.2.150:5000
-#EXTINF:-1,Zee Russia
+#EXTINF:-1 group-title="ТВ",Zee Russia
 http://192.168.1.1:4022/udp/239.10.2.152:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.153:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.154:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.156:5000
-#EXTINF:-1,
-http://192.168.1.1:4022/udp/239.10.2.157:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.158:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.2.157:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.160:5000
-#EXTINF:-1,Туган Тел
+#EXTINF:-1 group-title="ТВ",Туган Тел
 http://192.168.1.1:4022/udp/239.10.2.162:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.163:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.2.166:5000
-#EXTINF:-1,Живая Планета
-http://192.168.1.1:4022/udp/239.10.2.168:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.164:5000
-#EXTINF:-1,
-http://192.168.1.1:4022/udp/239.10.2.171:5000
-#EXTINF:-1,
-http://192.168.1.1:4022/udp/239.10.2.172:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.2.166:5000
+#EXTINF:-1 group-title="ТВ",Живая Планета
+http://192.168.1.1:4022/udp/239.10.2.168:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.170:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.2.171:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.2.172:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.173:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.2.175:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.174:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.2.177:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.2.175:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.176:5000
-#EXTINF:-1,Доктор
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.2.177:5000
+#EXTINF:-1 group-title="ТВ",Доктор
 http://192.168.1.1:4022/udp/239.10.2.179:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.180:5000
-#EXTINF:-1,Бобёр
+#EXTINF:-1 group-title="ТВ",Бобёр
 http://192.168.1.1:4022/udp/239.10.2.181:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.182:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="ТВ",ТНТ HD
 http://192.168.1.1:4022/udp/239.10.2.183:5000
-#EXTINF:-1,НТВ HD
+#EXTINF:-1 group-title="ТВ",НТВ HD
 http://192.168.1.1:4022/udp/239.10.2.185:5000
-#EXTINF:-1,КИНОУЖАС
+#EXTINF:-1 group-title="ТВ",КИНОУЖАС
 http://192.168.1.1:4022/udp/239.10.2.187:5000
-#EXTINF:-1,Ключ
+#EXTINF:-1 group-title="ТВ",Ключ
 http://192.168.1.1:4022/udp/239.10.2.188:5000
-#EXTINF:-1,Vmeste RF
+#EXTINF:-1 group-title="ТВ",Vmeste RF
 http://192.168.1.1:4022/udp/239.10.2.189:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.190:5000
-#EXTINF:-1,Fashion HD
+#EXTINF:-1 group-title="ТВ",Fashion HD
 http://192.168.1.1:4022/udp/239.10.2.191:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.192:5000
-#EXTINF:-1,2x2
+#EXTINF:-1 group-title="ТВ",2x2
 http://192.168.1.1:4022/udp/239.10.2.193:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.195:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.197:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.199:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.201:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.203:5000
-#EXTINF:-1,ShopShow&
+#EXTINF:-1 group-title="ТВ",Shop&Show
 http://192.168.1.1:4022/udp/239.10.2.206:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.205:5000
-#EXTINF:-1,Еда
+#EXTINF:-1 group-title="ТВ",Еда
 http://192.168.1.1:4022/udp/239.10.2.207:5000
-#EXTINF:-1,Shopping live
+#EXTINF:-1 group-title="ТВ",Shopping live
 http://192.168.1.1:4022/udp/239.10.2.208:5000
-#EXTINF:-1,Amedia 2 HD
-http://192.168.1.1:4022/udp/239.10.2.213:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.212:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="ТВ",Amedia 2 HD
+http://192.168.1.1:4022/udp/239.10.2.213:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.214:5000
-#EXTINF:-1,Синема HD
+#EXTINF:-1 group-title="ТВ",Синема HD
 http://192.168.1.1:4022/udp/239.10.2.216:5000
-#EXTINF:-1,8 Канал
+#EXTINF:-1 group-title="ТВ",8 Канал
 http://192.168.1.1:4022/udp/239.10.2.220:5000
-#EXTINF:-1,История
+#EXTINF:-1 group-title="ТВ",История
 http://192.168.1.1:4022/udp/239.10.2.221:5000
-#EXTINF:-1,МультиМузыка
+#EXTINF:-1 group-title="ТВ",Мульт и Музыка
 http://192.168.1.1:4022/udp/239.10.2.222:5000
-#EXTINF:-1,ENERGY FM
+#EXTINF:-1 group-title="Радио",ENERGY FM
 http://192.168.1.1:4022/udp/239.10.2.223:5000
-#EXTINF:-1,Amedia Premium HD
+#EXTINF:-1 group-title="ТВ",Amedia Premium HD
 http://192.168.1.1:4022/udp/239.10.2.224:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.225:5000
-#EXTINF:-1,Ювелирочка
+#EXTINF:-1 group-title="ТВ",Ювелирочка
 http://192.168.1.1:4022/udp/239.10.2.226:5000
-#EXTINF:-1,Redlight HD
-http://192.168.1.1:4022/udp/239.10.2.227:5000
-#EXTINF:-1,Hustler HD
-http://192.168.1.1:4022/udp/239.10.2.228:5000
-#EXTINF:-1, HD
-http://192.168.1.1:4022/udp/239.10.2.229:5000
-#EXTINF:-1,Мир сериала
+#EXTINF:-1 group-title="ТВ",Мир сериала
 http://192.168.1.1:4022/udp/239.10.2.230:5000
-#EXTINF:-1,Brazzers TV HD
-http://192.168.1.1:4022/udp/239.10.2.231:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.2.229:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.232:5000
-#EXTINF:-1,НСТВ
+#EXTINF:-1 group-title="ТВ",НСТВ
 http://192.168.1.1:4022/udp/239.10.2.235:5000
-#EXTINF:-1,Русский Роман
+#EXTINF:-1 group-title="ТВ",Русский Роман
 http://192.168.1.1:4022/udp/239.10.2.237:5000
-#EXTINF:-1,Первый канал HD
+#EXTINF:-1 group-title="ТВ",Первый канал HD
 http://192.168.1.1:4022/udp/239.10.2.238:5000
-#EXTINF:-1,Россия HD
+#EXTINF:-1 group-title="ТВ",Россия HD
 http://192.168.1.1:4022/udp/239.10.2.239:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.240:5000
-#EXTINF:-1,viju TV1000 новелла
+#EXTINF:-1 group-title="ТВ",viju TV1000 новелла
 http://192.168.1.1:4022/udp/239.10.2.241:5000
-#EXTINF:-1,Pes i Ko
+#EXTINF:-1 group-title="ТВ",Pes i Ko
 http://192.168.1.1:4022/udp/239.10.2.243:5000
-#EXTINF:-1,Euronews Russia
+#EXTINF:-1 group-title="ТВ",Euronews Russia
 http://192.168.1.1:4022/udp/239.10.2.244:5000
-#EXTINF:-1,
+#EXTINF:-1 group-title="Камеры",Веб-камера
 http://192.168.1.1:4022/udp/239.10.2.245:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.246:5000
-#EXTINF:-1,НВВ
+#EXTINF:-1 group-title="ТВ",НВВ
 http://192.168.1.1:4022/udp/239.10.2.247:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.248:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.249:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.251:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.250:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.252:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.253:5000
-#EXTINF:-1, HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
 http://192.168.1.1:4022/udp/239.10.2.254:5000
-#EXTINF:-1,Глазами Туриста HD
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.25:5000
+#EXTINF:-1 group-title="ТВ",Глазами Туриста HD
 http://192.168.1.1:4022/udp/239.10.3.35:5000
-
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.38:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.39:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.40:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.41:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.42:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.43:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.44:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.45:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.48:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.49:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.50:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.51:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.52:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.55:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.56:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.57:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.58:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.61:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.62:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.63:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.64:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.65:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.66:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.68:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.67:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.69:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.71:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.72:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.73:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.77:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.78:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.79:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.80:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.81:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.82:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.87:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.88:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.90:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.91:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.92:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.93:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.94:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.96:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.97:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.98:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.99:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.100:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.101:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.102:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.103:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.104:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.109:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.110:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.111:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.113:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.112:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.114:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.116:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.120:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.119:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.121:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.122:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.123:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.124:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.125:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.126:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.127:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.129:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.130:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.132:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.133:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.135:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.137:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.138:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.139:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.140:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.141:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.142:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.144:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.143:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.148:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.149:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.150:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.151:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.152:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.153:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.154:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.155:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.157:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.159:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.160:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.162:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.164:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.165:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.166:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.167:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.168:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.169:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.171:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.172:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.175:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.176:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.177:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.179:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.178:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.180:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.182:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.181:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.185:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.184:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.192:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.190:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.193:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.194:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.195:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.196:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.197:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.198:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.199:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.200:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.201:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.202:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.206:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.207:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.208:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.209:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.210:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.211:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.212:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера
+http://192.168.1.1:4022/udp/239.10.3.213:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.215:5000
+#EXTINF:-1 group-title="Камеры",Веб-камера HD
+http://192.168.1.1:4022/udp/239.10.3.214:5000
